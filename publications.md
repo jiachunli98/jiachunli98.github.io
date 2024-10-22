@@ -5,6 +5,7 @@ title: Publications
 ---
 
 ## Publications
+---
 
 - **[TIFS]** Dangers behind Charging VR Devices：Hidden Side Channel Attacks via Charging Cables<br>
    **Jiachun Li** , Yan Meng, Yuxia Zhan, Le Zhang, Haojin Zhu<br>
