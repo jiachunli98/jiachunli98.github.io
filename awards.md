@@ -6,7 +6,7 @@ title: Awards
 
 ## Awards
 
-### 2024
+---
 
 - 2017, National Encouragement Scholarship
 - 2017, Merit Student
