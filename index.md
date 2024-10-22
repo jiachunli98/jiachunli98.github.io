@@ -4,6 +4,7 @@ layout: page
 
 # About Me
 
+---
 
 <img src="https://jiachunli98.github.io/jiachun.jpg" class="floatpic">
 
