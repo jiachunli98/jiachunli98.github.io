@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
----
+## Publications
 
 - **[TIFS]** Dangers behind Charging VR Devices：Hidden Side Channel Attacks via Charging Cables<br>
    **Jiachun Li** , Yan Meng, Yuxia Zhan, Le Zhang, Haojin Zhu<br>
@@ -53,3 +53,5 @@ title: Publications
    *2023 IEEE International Conference on Communications (ICC'23)* , 2023 | [paper](./data/shaofengicc.pdf)
 
 ---
+
+<br>
