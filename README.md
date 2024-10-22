@@ -1,4 +1,4 @@
-# https://jiachunli98.github.io//
+# https://jiachunli98.github.io/
 
 **Jiachun Li**
-My homepage：https://jiachunli98.github.io//
+My homepage：https://jiachunli98.github.io/
