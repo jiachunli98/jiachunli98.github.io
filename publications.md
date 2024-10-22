@@ -20,7 +20,7 @@ title: Publications
 - **[TVT]** Secure and Efficient UAV Tracking in Space-air-ground Integrated Network<br>
    **Jiachun Li** , Weijiong Zhang, Yan Meng, Shaofeng Li, Lichuan Ma, Zhen Liu, Haojin Zhu<br>
    *IEEE Transactions on Vehicular Technology (TVT)* , 2023 | [paper](https://ieeexplore.ieee.org/document/10064000) | [demo](./images/SAGIN.mp4)
-- **[ICCC2023]** EM-Whisperer: A Voice Injection Attack via Powerline for Virtual Meeting Scenarios**<br>
+- **[ICCC2023]** EM-Whisperer: A Voice Injection Attack via Powerline for Virtual Meeting Scenarios<br>
    **Jiachun Li** , Yan Meng, Le Zhang, Fazhong Liu, Haojin Zhu<br>
    *IEEE/CIC International Conference on Communications in China (ICCC'23)* , 2023 | [paper](./images/jiachuniccc.pdf)
 - **[ICMC2024]** Security and Privacy in Virtual Reality：Challenges, Trends, and Countermeasures<br>
@@ -31,7 +31,7 @@ title: Publications
    *IEEE International Conference on Consumer Electronics (ICCE'19)* , 2019 | [paper](https://ieeexplore.ieee.org/abstract/document/8991763)
 - **[Air and Space Defense]** Secure Routing Algorithm of Space-Air-Ground Integrated Network Based on Probability<br>
    **Jiachun Li** , Weijiong Zhang, Lingcun Qiu, Le Zhang<br>
-   *Air and Space Defense (空天防御) * , 2023 | [paper](./images/3.pdf)
+   *Air and Space Defense*(空天防御), 2023 | [paper](./images/3.pdf)
 - **[USENIX Security2023]** Your Microphone Array Retains Your Identity: A Robust Voice Liveness Detection System for Smart Speakers<br>
    Yan Meng,  **Jiachun Li** , Matthew Pillari, Arjun Deopujari, Liam Brennan, Hafsah Shamsie, Haojin Zhu, Yuan Tian<br>
    *The 31st USENIX Security Symposium (USENIX Security'22)* , 2022 | [paper](https://www.usenix.org/system/files/sec22summer_meng.pdf)
