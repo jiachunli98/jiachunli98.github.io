@@ -4,8 +4,6 @@ permalink: /patents/index.html
 title: Patents
 ---
 
-> Update: 20th Sep 2024
-
 ## Patents
 
 - China Patent CN202310440665.3: “基于泛在电磁信号的无线充电认证方法”, April 23, 2023. (the 2nd author)
