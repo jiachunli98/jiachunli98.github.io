@@ -5,7 +5,7 @@ title: Blognotes
 ---
 
 ## Hobbies
-
+---
 <br>
 <center>
 <img src="https://jiachunli98.github.io/figures/hobby1.jpg" width="200">
