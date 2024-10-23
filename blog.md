@@ -8,11 +8,8 @@ title: Blogs
 
 ---
 
-
-
-### 2023
-
-- [Beijing](https://jiachunli98.github.io/images/notebeijing)<br>
+- [Mainland](https://jiachunli98.github.io/images/mainland)<br>
+- [Overseas](https://jiachunli98.github.io/images/overseas)<br>
 
 ---
 
