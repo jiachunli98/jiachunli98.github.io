@@ -6,7 +6,7 @@ title: Blognotes
 
 ## Wonderful Moments
 
-### Beijing
+### New York, USA
 ---
 <center>
 <img src="https://jiachunli98.github.io/figures/bj1.jpg" width="200">
@@ -15,11 +15,6 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/bj7.jpg" width="200">
 </center>
 
-### Shanghai
----
-
-
-### New York, USA
 ### Sydney&Melbourne, Australia
 ### Singapore
 ### Phuket, Thailand
