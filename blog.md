@@ -8,16 +8,11 @@ title: Blogs
 
 ---
 
-### Beijing
-
----
-
-<img src="https://jiachunli98.github.io/images/jiachun.jpg" width="30%">
-
-<img src="https://jiachunli98.github.io/images/jiachun.jpg" width="30%">
 
 
- 
+### 2023
+
+- [Beijing](https://jiachunli98.github.io/images/notebeijing)<br>
 
 ---
 
