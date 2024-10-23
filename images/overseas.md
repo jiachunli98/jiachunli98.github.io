@@ -22,6 +22,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/ny13.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/ny14.jpg" width="200">
 </center>
+<br>
 
 ### Sydney&Melbourne, Australia
 ---
@@ -39,6 +40,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/au11.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/au12.jpg" width="200">
 </center>
+<br>
 
 ### Singapore
 ---
@@ -58,6 +60,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/sg14.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sg15.jpg" width="200">
 </center>
+<br>
 
 ### Phuket, Thailand
 ---
@@ -72,7 +75,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/thai8.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/thai9.jpg" width="200">
 </center>
-
+<br>
 
 ### Kuala Lumpur, Malaysia
 ---
@@ -80,6 +83,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/kl1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/kl3.jpg" width="200">
 </center>
+<br>
 
 ### Bali, Indonesia
 ---
