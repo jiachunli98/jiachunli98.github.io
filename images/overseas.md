@@ -53,7 +53,6 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/sg8.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sg9.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sg10.jpg" width="200">
-<img src="https://jiachunli98.github.io/figures/sg11.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sg12.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sg13.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sg14.jpg" width="200">
