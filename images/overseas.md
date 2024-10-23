@@ -6,3 +6,9 @@ title: Blognotes
 
 #### Wonderful Moments
 
+### NewYork
+### Australia
+### Singapore
+### Thailand
+### Malaysia
+### Indonesia
