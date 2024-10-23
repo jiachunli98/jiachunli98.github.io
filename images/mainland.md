@@ -14,6 +14,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/bj5.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/bj7.jpg" width="200">
 </center>
+---
 
 ### Shanghai
 ---
