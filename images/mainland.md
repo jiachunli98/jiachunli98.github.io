@@ -5,7 +5,7 @@ title: Blognotes
 ---
 
 ## Wonderful Moments
-
+---
 ### Beijing
 ---
 <center>
