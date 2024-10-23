@@ -61,6 +61,20 @@ title: Blognotes
 </center>
 
 ### Phuket, Thailand
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/thai1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/thai2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/thai3.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/thai4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/thai5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/thai6.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/thai7.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/thai8.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/thai9.jpg" width="200">
+</center>
+
+
 ### Kuala Lumpur, Malaysia
 ---
 <center>
@@ -69,3 +83,11 @@ title: Blognotes
 </center>
 
 ### Bali, Indonesia
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/bl1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/bl2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/bl3.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/bl4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/bl5.jpg" width="200">
+</center>
