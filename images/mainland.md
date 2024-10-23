@@ -43,6 +43,13 @@ title: Blognotes
 </center>
 
 ### Kaifeng, Henan
+
+<center>
+<img src="https://jiachunli98.github.io/figures/kf1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/kf2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/kf3.jpg" width="200">
+</center>
+
 ### Luoyang, Henan
 ### Suzhou, Jiangsu
 ### Nanjing, Jiangsu
