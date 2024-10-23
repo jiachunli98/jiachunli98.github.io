@@ -19,9 +19,9 @@ title: Blognotes
 ---
 
 
-### NewYork
-### Australia
+### New York, USA
+### Sydney&Melbourne, Australia
 ### Singapore
-### Thailand
-### Malaysia
-### Indonesia
+### Phuket, Thailand
+### Kuala Lumpur, Malaysia
+### Bali, Indonesia
