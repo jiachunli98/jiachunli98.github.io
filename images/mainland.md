@@ -51,13 +51,74 @@ title: Blognotes
 </center>
 
 ### Luoyang, Henan
+
+<center>
+<img src="https://jiachunli98.github.io/figures/ly1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/ly2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/ly3.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/ly4.jpg" width="200">
+</center>
+
 ### Suzhou, Jiangsu
+
+<center>
+<img src="https://jiachunli98.github.io/figures/sz2.jpg" width="200">
+</center>
+
 ### Nanjing, Jiangsu
+
+<center>
+<img src="https://jiachunli98.github.io/figures/nj1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/nj2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/nj3.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/nj4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/nj5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/nj6.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/nj7.jpg" width="200">
+</center>
+
 ### Wuhan, Hubei
+
+<center>
+<img src="https://jiachunli98.github.io/figures/wh1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wh2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wh3.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wh4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wh5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wh6.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wh7.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wh8.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wh9.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wh10.jpg" width="200">
+</center>
+
 ### Chengdu, Sichuan
+
+<center>
+<img src="https://jiachunli98.github.io/figures/cd1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/cd2.jpg" width="200">
+</center>
+
 ### Jinan&Qufu, Shandong
-### Qingdao, Shandong
+
+<center>
+<img src="https://jiachunli98.github.io/figures/jn1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/qf1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/qf2.jpg" width="200">
+</center>
+
+### Taian&Qingdao, Shandong
+
+<center>
+<img src="https://jiachunli98.github.io/figures/ts1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/ts2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/qd1.jpg" width="200">
+</center>
+
 ### Ningbo, Zhejiang
+
+
+
 ### Shaoxing, Zhejiang
 ### Jiaxing, Zhejiang
 ### Hangzhou, Zhejiang
