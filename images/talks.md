@@ -9,5 +9,5 @@ title: Blognotes
 <center>
 <img src="https://jiachunli98.github.io/figures/Weixin Image_20241023112133.jpg" width="200">
 </center>
-<img src="https://jiachunli98.github.io/figures/Weixin Image_20241023112018.jpg">
-<img src="https://jiachunli98.github.io/figures/Weixin Image_202410231119581.jpg">
+<img src="https://jiachunli98.github.io/figures/Weixin Image_20241023112018.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/Weixin Image_202410231119581.jpg" width="200">
