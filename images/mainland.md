@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/mainland/index.html
+permalink: /images/mainland/index.html
 title: Blognotes
 ---
 
