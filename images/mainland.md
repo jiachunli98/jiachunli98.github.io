@@ -16,6 +16,17 @@ title: Blognotes
 </center>
 
 ### Shanghai
+
+<center>
+<img src="https://jiachunli98.github.io/figures/sh1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/sh2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/sh3.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/sh4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/sh5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/sh8.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/sh9.jpg" width="200">
+</center>
+
 ### Chongqing
 ### Xian, Shaanxi
 ### Kaifeng, Henan
