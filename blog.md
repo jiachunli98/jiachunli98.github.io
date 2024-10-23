@@ -10,9 +10,9 @@ title: Blogs
 
 - Beijing
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="./images/jiachun.jpg"  width="200" height="260" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="./images/jiachun.jpg"  width="200" ></div>
 
-<div style="float:left;border:solid 1px 000;margin:2px;"><img src="./images/jiachun.jpg" width="200" height="260" ></div>
+<div style="float:left;border:solid 1px 000;margin:2px;"><img src="./images/jiachun.jpg" width="200" ></div>
 
 <center>
  
