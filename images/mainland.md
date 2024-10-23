@@ -7,21 +7,30 @@ title: Blognotes
 ## Wonderful Moments
 
 ### Beijing
-### Xian
-### Kaifeng
-### Luoyang
-### Suzhou
-### Wuhan
-### Chengdu
+
+<center>
+<img src="https://jiachunli98.github.io/figures/bj1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/bj2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/bj5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/bj7.jpg" width="200">
+</center>
+
 ### Shanghai
-### Jinan&Qufu
-### Ningbo
-### Shaoxing
-### Xiamen
-### Nanjing
 ### Chongqing
-### Qingdao
-### Jiaxing
-### Hangzhou
-### Mudanjiang
+### Xian, Shaanxi
+### Kaifeng, Henan
+### Luoyang, Henan
+### Suzhou, Jiangsu
+### Nanjing, Jiangsu
+### Wuhan, Hubei
+### Chengdu, Sichuan
+### Jinan&Qufu, Shandong
+### Qingdao, Shandong
+### Ningbo, Zhejiang
+### Shaoxing, Zhejiang
+### Jiaxing, Zhejiang
+### Hangzhou, Zhejiang
+### Xiamen, Fujian
+### Dalian, Liaoning
+### Mudanjiang, Heilongjiang
 
