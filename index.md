@@ -8,7 +8,7 @@ layout: page
 
 <img src="https://jiachunli98.github.io/jiachun.jpg" class="floatpic">
 
----
+
 
 Here is **Jiachun Li (李嘉淳)**.<br>
 
