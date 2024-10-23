@@ -13,7 +13,7 @@ title: Publications
   *IEEE Transactions on Information Forensics and Security（TIFS)* , 2024 | **[paper](https://ieeexplore.ieee.org/document/10684784)**</small>
 - **[INFOCOM2023]** MagFingerprint: A Magnetic Based Device Fingerprinting in Wireless Charging<br>
   <small>**Jiachun Li** , Yan Meng, Le Zhang, Guoxing Chen, Yuan Tian, Haojin Zhu, Xuemin (Sherman) Shen<br>
-  *IEEE International Conference on Computer Communications (INFOCOM'23)* , 2023 | **[paper](./images/jiachuninfocom.pdf)** |**[demo](./images/wireless charging demo.mp4)**</small>
+  *IEEE International Conference on Computer Communications (INFOCOM'23)* , 2023 | **[paper](./images/jiachuninfocom.pdf) | [demo](./images/wireless charging demo.mp4)**</small>
 - **[TII]** A Federated Learning Based Privacy-Preserving Smart Healthcare System<br>
   <small>**Jiachun Li** , Yan Meng, Lichuan Ma, Suguo Du, Haojin Zhu, Qingqi Pei, Xuemin (Sherman) Shen<br>
   *IEEE Transactions on Industrial Informatics (TII)* , 2021 | **[paper](https://ieeexplore.ieee.org/abstract/document/9492000)**</small>
