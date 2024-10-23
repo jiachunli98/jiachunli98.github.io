@@ -20,6 +20,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/Weixin Image_20241023111933.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/Weixin Image_202410231119321.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/Weixin Image_20241023111929.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/Weixin Image_202410231119502.jpg" width="200">
 
 </center>
 
