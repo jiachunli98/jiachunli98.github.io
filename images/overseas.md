@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/overseas/index.html
+permalink: /images/overseas/index.html
 title: Blognotes
 ---
 
