@@ -6,7 +6,7 @@ layout: page
 
 ---
 
-<img src="https://jiachunli98.github.io/jiachun2.jpg" class="floatpic">
+<img src="https://jiachunli98.github.io/jiachun.jpg" class="floatpic">
 
 
 
