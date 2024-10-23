@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/24fall/index.html
+permalink: /blogs/mainland/index.html
 title: Blognotes
 ---
 
