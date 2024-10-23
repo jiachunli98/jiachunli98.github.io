@@ -12,15 +12,12 @@ title: Blogs
 
 - Beijing
 
-<img src="https://jiachunli98.github.io/images/jiachun.jpg" width="150" >
-
-<img src="https://jiachunli98.github.io/images/jiachun.jpg" width="150" >
-
 <img src="https://jiachunli98.github.io/images/jiachun.jpg" width="30%" >
 
 <img src="https://jiachunli98.github.io/images/jiachun.jpg" width="30%" >
 
 <center>
+
  
 
 ---
