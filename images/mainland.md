@@ -28,7 +28,20 @@ title: Blognotes
 </center>
 
 ### Chongqing
+
+<center>
+<img src="https://jiachunli98.github.io/figures/cq1.jpg" width="200">
+</center>
+
 ### Xian, Shaanxi
+
+<center>
+<img src="https://jiachunli98.github.io/figures/xa1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/xa2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/xa3.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/xa4.jpg" width="200">
+</center>
+
 ### Kaifeng, Henan
 ### Luoyang, Henan
 ### Suzhou, Jiangsu
