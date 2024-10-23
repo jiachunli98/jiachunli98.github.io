@@ -27,12 +27,14 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/sh8.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sh9.jpg" width="200">
 </center>
+<br>
 
 ### Chongqing
 ---
 <center>
 <img src="https://jiachunli98.github.io/figures/cq1.jpg" width="200">
 </center>
+<br>
 
 ### Xian, Shaanxi
 ---
@@ -42,6 +44,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/xa3.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/xa4.jpg" width="200">
 </center>
+<br>
 
 ### Kaifeng, Henan
 ---
@@ -50,6 +53,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/kf2.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/kf3.jpg" width="200">
 </center>
+<br>
 
 ### Luoyang, Henan
 ---
@@ -59,12 +63,15 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/ly3.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/ly4.jpg" width="200">
 </center>
+<br>
+<br>
 
 ### Suzhou, Jiangsu
 ---
 <center>
 <img src="https://jiachunli98.github.io/figures/sz2.jpg" width="200">
 </center>
+<br>
 
 ### Nanjing, Jiangsu
 ---
@@ -77,6 +84,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/nj6.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/nj7.jpg" width="200">
 </center>
+<br>
 
 ### Wuhan, Hubei
 ---
@@ -92,6 +100,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/wh9.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/wh10.jpg" width="200">
 </center>
+<br>
 
 ### Chengdu, Sichuan
 ---
@@ -99,6 +108,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/cd1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/cd2.jpg" width="200">
 </center>
+<br>
 
 ### Jinan&Qufu, Shandong
 ---
@@ -107,6 +117,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/qf1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/qf2.jpg" width="200">
 </center>
+<br>
 
 ### Taian&Qingdao, Shandong
 ---
@@ -115,6 +126,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/ts2.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/qd1.jpg" width="200">
 </center>
+<br>
 
 ### Ningbo, Zhejiang
 ---
@@ -123,6 +135,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/nb2.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/nb3.jpg" width="200">
 </center>
+<br>
 
 ### Shaoxing, Zhejiang
 ---
@@ -132,12 +145,14 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/sx3.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sx5.jpg" width="200">
 </center>
+<br>
 
 ### Jiaxing, Zhejiang
 ---
 <center>
 <img src="https://jiachunli98.github.io/figures/jx1.jpg" width="200">
 </center>
+<br>
 
 ### Hangzhou, Zhejiang
 ---
@@ -146,6 +161,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/hz2.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/hz5.jpg" width="200">
 </center>
+<br>
 
 ### Xiamen, Fujian
 ---
@@ -156,6 +172,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/xm4.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/xm5.jpg" width="200">
 </center>
+<br>
 
 ### Dalian, Liaoning
 ---
@@ -163,6 +180,7 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/dl1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/dl2.jpg" width="200">
 </center>
+<br>
 
 ### Mudanjiang, Heilongjiang
 ---
