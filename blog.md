@@ -14,6 +14,11 @@ title: Blogs
 
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="./images/jiachun.jpg" width="200" height="260" ></div>
 
+<center>
+ 
+![](./images/jiachun.jpg")![](./images/jiachun.jpg)
+</center>
+
 ---
 
 <br>
