@@ -7,8 +7,8 @@ title: Blognotes
 ## Wonderful Moments
 ---
 <center>
-<img src="https://jiachunli98.github.io/figures/Weixin Image_202410231120111.jpg" width="200">
-<img src="https://jiachunli98.github.io/figures/Weixin Image_20241023111954.jpg" width="200">
+<br><img src="https://jiachunli98.github.io/figures/Weixin Image_202410231120111.jpg" width="200">
+<br><img src="https://jiachunli98.github.io/figures/Weixin Image_20241023111954.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/Weixin Image_202410231119531.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/Weixin Image_20241023111952.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/Weixin Image_202410231119511.jpg" width="200">
