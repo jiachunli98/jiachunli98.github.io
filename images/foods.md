@@ -11,9 +11,9 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/Weixin Image_20241023111954.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/Weixin Image_202410231119531.jpg" width="200">
 </center>
-  br {
-        line-height: 150%;
-     }
+<div style="line-height:150%;">
+    <br>
+</div>
 <center>
 <img src="https://jiachunli98.github.io/figures/Weixin Image_20241023111952.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/Weixin Image_202410231119511.jpg" width="200">
