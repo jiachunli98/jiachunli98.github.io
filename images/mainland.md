@@ -12,9 +12,14 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/bj1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/bj2.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/bj5.jpg" width="200">
+<div style="line-height:100%;">
+    <br>
+</div>
 <img src="https://jiachunli98.github.io/figures/bj7.jpg" width="200">
 </center>
-<br>
+<div style="line-height:150%;">
+    <br>
+</div>
 
 ### Shanghai
 ---
@@ -22,12 +27,20 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/sh1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sh2.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sh3.jpg" width="200">
+<div style="line-height:100%;">
+    <br>
+</div>
 <img src="https://jiachunli98.github.io/figures/sh4.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sh5.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sh8.jpg" width="200">
+<div style="line-height:100%;">
+    <br>
+</div>
 <img src="https://jiachunli98.github.io/figures/sh9.jpg" width="200">
 </center>
-<br>
+<div style="line-height:150%;">
+    <br>
+</div>
 
 ### Chongqing
 ---
