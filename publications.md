@@ -11,6 +11,9 @@ title: Publications
 - **[TIFS]** Dangers behind Charging VR Devices：Hidden Side Channel Attacks via Charging Cables<br>
   <small>**Jiachun Li** , Yan Meng, Yuxia Zhan, Le Zhang, Haojin Zhu<br>
   *IEEE Transactions on Information Forensics and Security（TIFS)* , 2024 | **[paper](https://ieeexplore.ieee.org/document/10684784)**</small>
+- **[TDSC]** A Magnetic Based Device Fingerprinting in Wireless Charging<br>
+  <small>**Jiachun Li** , Yan Meng, Le Zhang, Guoxing Chen, Yuan Tian, Haojin Zhu<br>
+  *IEEE Transactions on Dependable and Secure Computing (TDSC)* , 2024</small>
 - **[INFOCOM2023]** MagFingerprint: A Magnetic Based Device Fingerprinting in Wireless Charging<br>
   <small>**Jiachun Li** , Yan Meng, Le Zhang, Guoxing Chen, Yuan Tian, Haojin Zhu, Xuemin (Sherman) Shen<br>
   *IEEE International Conference on Computer Communications (INFOCOM'23)* , 2023 | **[paper](./images/jiachuninfocom.pdf) | [demo](./images/wireless charging demo.mp4)**</small>

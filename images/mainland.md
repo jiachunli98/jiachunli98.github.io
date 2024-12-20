@@ -37,6 +37,8 @@ title: Blognotes
     <br>
 </div>
 <img src="https://jiachunli98.github.io/figures/sh9.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/shanghai-1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/shanghai-2.jpg" width="200">
 </center>
 <div style="line-height:100%;">
     <br>
@@ -154,6 +156,31 @@ title: Blognotes
 <center>
 <img src="https://jiachunli98.github.io/figures/cd1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/cd2.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
+### Guiyang, Guizhou
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/guiyang-1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/guiyang-2.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
+### Guilin, Guangxi
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/guilin-1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/guilin-2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/guilin-3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/guilin-4.jpg" width="200">
 </center>
 <div style="line-height:100%;">
     <br>
