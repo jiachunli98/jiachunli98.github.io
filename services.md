@@ -19,7 +19,7 @@ title: Services
 - IEEE Transactions on Mobile Computing (TMC)
 - ACM Conference on Computer and Communications Security (CCS)
 - Network and Distributed System Security Symposium (NDSS)
-- Usenix Security
+- USENIX Security
 
 ---
 
