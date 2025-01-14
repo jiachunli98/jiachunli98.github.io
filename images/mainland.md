@@ -57,6 +57,10 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/hk5.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/hk6.jpg" width="200">
 </center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
 
 ### Macau
 ---
@@ -71,6 +75,9 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/ma5.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/ma6.jpg" width="200">
 </center>
+<div style="line-height:100%;">
+    <br>
+</div>
 
 ### Chongqing
 ---
