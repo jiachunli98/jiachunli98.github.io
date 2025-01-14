@@ -44,6 +44,34 @@ title: Blognotes
     <br>
 </div>
 
+### Hongkong
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/hk1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/hk2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/hk3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/hk4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/hk5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/hk6.jpg" width="200">
+</center>
+
+### Macau
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/ma1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/ma2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/ma3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/ma4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/ma5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/ma6.jpg" width="200">
+</center>
+
 ### Chongqing
 ---
 <center>
@@ -203,6 +231,16 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/ts1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/ts2.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/qd1.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
+### Zhuhai&Shenzhen, Guangdong
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/zh1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/zh2.jpg" width="200">
 </center>
 <div style="line-height:100%;">
     <br>
