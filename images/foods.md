@@ -40,7 +40,6 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/food1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/food2.jpg" width="200">
 <div style="line-height:20%;">
-<div style="line-height:20%;">
     <br>
 </div>
 </center>
