@@ -14,7 +14,10 @@ title: Services
 - IEEE Transactions on Industrial Informatics (TII)
 - Peer-to-Peer Networking and Applications (PPNA)
 - Wireless Network
-  
+
+**TPC Members:**
+- IEEE/CIC International Conference on Communications in China (ICCC 2025) 
+
 **External Reviewers:**
 - IEEE Transactions on Mobile Computing (TMC)
 - ACM Conference on Computer and Communications Security (CCS)
