@@ -10,6 +10,7 @@ title: Services
 
 **Journal Reviewers:**
 - IEEE Transactions on Information Forensics and Security (TIFS)
+- IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Industrial Informatics (TII)
 - Peer-to-Peer Networking and Applications (PPNA)
@@ -19,7 +20,6 @@ title: Services
 - IEEE/CIC International Conference on Communications in China (ICCC 2025) 
 
 **External Reviewers:**
-- IEEE Transactions on Mobile Computing (TMC)
 - ACM Conference on Computer and Communications Security (CCS)
 - Network and Distributed System Security Symposium (NDSS)
 - USENIX Security
