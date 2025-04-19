@@ -201,6 +201,7 @@ title: Blognotes
 <center>
 <img src="https://jiachunli98.github.io/figures/guiyang-1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/guiyang-2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/guiyang.jpg" width="200">
 </center>
 <div style="line-height:100%;">
     <br>
