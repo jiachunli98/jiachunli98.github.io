@@ -79,13 +79,12 @@ title: Blognotes
 <div style="line-height:20%;">
     <br>
 </div>
-<img src="https://jiachunli98.github.io/figures/spain/sp7.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/spain/sp10.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/spain/sp8.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/spain/sp9.jpg" width="200">
 <div style="line-height:20%;">
     <br>
 </div>
-<img src="https://jiachunli98.github.io/figures/spain/sp10.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/spain/sp11.jpg" width="200">
 </center>
 <div style="line-height:100%;">
