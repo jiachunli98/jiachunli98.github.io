@@ -43,14 +43,14 @@ title: Blognotes
 <div style="line-height:20%;">
     <br>
 </div>
-<img src="https://jiachunli98.github.io/figures/eat/et1.jpg" width="200">
-<img src="https://jiachunli98.github.io/figures/eat/et2.jpg" width="200">
-<img src="https://jiachunli98.github.io/figures/eat/et3.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/eat/e1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/eat/e2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/eat/e3.jpg" width="200">
 <div style="line-height:20%;">
     <br>
 </div>
-<img src="https://jiachunli98.github.io/figures/eat/et4.jpg" width="200">
-<img src="https://jiachunli98.github.io/figures/eat/et5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/eat/e4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/eat/e5.jpg" width="200">
 <div style="line-height:20%;">
     <br>
 </div>
