@@ -144,6 +144,17 @@ title: Blognotes
     <br>
 </div>
 
+### Wuxi, Jiangsu
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/wx1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wx2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/wx3.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
 ### Nanjing, Jiangsu
 ---
 <center>
