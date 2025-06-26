@@ -176,6 +176,21 @@ title: Blognotes
     <br>
 </div>
 
+### Huangshan, Anhui
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/hs1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/hs2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/hs3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/hs4.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
 ### Wuhan, Hubei
 ---
 <center>
@@ -312,6 +327,11 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/hz1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/hz2.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/hz5.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/hza1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/hza2.jpg" width="200">
 </center>
 <div style="line-height:100%;">
     <br>
