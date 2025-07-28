@@ -34,7 +34,7 @@ title: Publications
   *IEEE International Conference on Computer Communications (INFOCOM'23)* , 2023 | **[paper](./images/yaninfocom.pdf)**</small>
 - **[TMC]** VR-Fi: Positioning and Recognizing Hand Gestures via VR-embedded Wi-Fi Sensing<br>
   <small>Hongbo Wang, Xin Li,  **Jiachun Li** , Haojin Zhu, Jun Luo<br>
-  *IEEE Transactions on Mobile Computing (TMC)* , 2025</small>
+  *IEEE Transactions on Mobile Computing (TMC)* , 2025 | **[paper](https://ieeexplore.ieee.org/abstract/document/10948330)**</small>
 - **[TMC]** De-anonymizing Avatars in Virtual Reality：Attacks and Countermeasures<br>
   <small>Yan Meng, Yuxia Zhan,  **Jiachun Li** , Suguo Du, Haojin Zhu, Xuemin (Sherman) Shen<br>
   *IEEE Transactions on Mobile Computing (TMC)* , 2024 | **[paper](https://ieeexplore.ieee.org/abstract/document/10592805)**</small>
