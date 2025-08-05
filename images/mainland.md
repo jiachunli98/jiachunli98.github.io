@@ -239,6 +239,28 @@ title: Blognotes
     <br>
 </div>
 
+### Changsha, Hunan
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/cs1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/cs2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/cs3.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
+### Nanchang, Jiangxi
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/nc1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/nc2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/nc3.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
 ### Guilin, Guangxi
 ---
 <center>
