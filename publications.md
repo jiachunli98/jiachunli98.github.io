@@ -10,7 +10,7 @@ title: Publications
 
 - **[TIFS]** Synergistic Multi-Modal Keystroke Eavesdropping in Virtual Reality with Vision and Wi-Fi<br>
   <small>**Jiachun Li** , Yan Meng, Fazhong Liu, Tian Dong, Suguo Du, Guoxing Chen, Yuling Chen, Haojin Zhu<br>
-  *IEEE Transactions on Information Forensics and Security（TIFS)* , 2025 **</small>
+  *IEEE Transactions on Information Forensics and Security（TIFS)* , 2025</small>
 - **[TIFS]** Dangers behind Charging VR Devices：Hidden Side Channel Attacks via Charging Cables<br>
   <small>**Jiachun Li** , Yan Meng, Yuxia Zhan, Le Zhang, Haojin Zhu<br>
   *IEEE Transactions on Information Forensics and Security（TIFS)* , 2024 | **[paper](https://ieeexplore.ieee.org/document/10684784)**</small>
