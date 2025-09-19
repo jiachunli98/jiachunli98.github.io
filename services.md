@@ -17,7 +17,8 @@ title: Services
 - Wireless Network
 
 **TPC Members:**
-- IEEE/CIC International Conference on Communications in China (ICCC 2025) 
+- IEEE/CIC International Conference on Communications in China (ICCC 2025)
+- IEEE International Conference on Trust,Security and Privacy in Computing and Communications (TrustCom 2025)
 
 **External Reviewers:**
 - ACM Conference on Computer and Communications Security (CCS)
