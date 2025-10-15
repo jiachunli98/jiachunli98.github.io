@@ -239,6 +239,23 @@ title: Blognotes
     <br>
 </div>
 
+### Kunming&Lijiang&Dali, Yunnan
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/yn1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/yn2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/yn3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/yn4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/yn5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/yn6.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
 ### Changsha, Hunan
 ---
 <center>
