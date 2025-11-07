@@ -15,5 +15,6 @@ title: Blognotes
 </div>
 <img src="https://jiachunli98.github.io/figures/beij1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/beij2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/tzb.jpg" width="200">
 </center>
 
