@@ -13,6 +13,7 @@ title: Services
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Industrial Informatics (TII)
+- IEEE Internet of Things Journal (IOTJ)
 - Peer-to-Peer Networking and Applications (PPNA)
 - Wireless Network
 
