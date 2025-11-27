@@ -44,6 +44,9 @@ title: Publications
 - **[IWQOS2021]** BatFL: Backdoor Detection on Federated Learning in e-Health<br>
   <small>Binhan Xi, Shaofeng Li,  **Jiachun Li** , Hui Liu, Hong Liu, Haojin Zhu<br>
   *International Workshop on Quality of Service (IWQOS'21)* , 2021 | **[paper](https://ieeexplore.ieee.org/abstract/document/9521339)**</small>
+- **[TRUSTCOM25]** Blind Points Between ASR and Intent Inferring: Vulnerability Discovering via Fuzzing in-Vehicle Voice Assistance<br>
+  <small>Peilin Luo, Wei Teng,  **Jiachun Li** , Yan Meng, Haojin Zhu<br>
+  *IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom'25)* , 2025 | </small>
 - **[ICCC2023]** EM-Whisperer: A Voice Injection Attack via Powerline for Virtual Meeting Scenarios<br>
   <small>**Jiachun Li** , Yan Meng, Le Zhang, Fazhong Liu, Haojin Zhu<br>
   *IEEE/CIC International Conference on Communications in China (ICCC'23)* , 2023 | **[paper](./images/jiachuniccc.pdf)**</small>
