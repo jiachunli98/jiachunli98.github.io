@@ -228,12 +228,18 @@ title: Blognotes
     <br>
 </div>
 
-### Guiyang, Guizhou
+### Guiyang&Anshun, Guizhou
 ---
 <center>
 <img src="https://jiachunli98.github.io/figures/guiyang-1.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/guiyang-2.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/guiyang.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/guiyang10.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/guiyang11.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/guiyang12.jpg" width="200"> 
 </center>
 <div style="line-height:100%;">
     <br>
