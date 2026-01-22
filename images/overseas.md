@@ -242,7 +242,6 @@ title: Blognotes
 <div style="line-height:20%;">
     <br>
 </div>
-<img src="https://jiachunli98.github.io/figures/sg14.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/sg15.jpg" width="200">
 </center>
 <div style="line-height:100%;">
