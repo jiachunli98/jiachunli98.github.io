@@ -26,7 +26,7 @@ title: Publications
 - **[TVT]** Secure and Efficient UAV Tracking in Space-air-ground Integrated Network<br>
   <small>**Jiachun Li** , Weijiong Zhang, Yan Meng, Shaofeng Li, Lichuan Ma, Zhen Liu, Haojin Zhu<br>
   *IEEE Transactions on Vehicular Technology (TVT)* , 2023 | **[paper](https://ieeexplore.ieee.org/document/10064000) | [demo](./images/SAGIN.mp4)**</small>
-  - **[TCE]** A Wi-Fi Based Authentication Scheme for Voice Enabled Large Language Model Consumer Electronics Devices<br>
+- **[TCE]** A Wi-Fi Based Authentication Scheme for Voice Enabled Large Language Model Consumer Electronics Devices<br>
   <small>**Jiachun Li** , Hao Yuan, Yan Meng, Lu Zhou, Yuling Chen, Haojin Zhu<br>
   *IEEE Transactions on Consumer Electronics (TCE)* , 2026 | **[paper](https://ieeexplore.ieee.org/document/11363443)**</small>
 - **[USENIX Security2023]** Your Microphone Array Retains Your Identity: A Robust Voice Liveness Detection System for Smart Speakers<br>
