@@ -44,6 +44,9 @@ title: Publications
 - **[TMC24]** De-anonymizing Avatars in Virtual Reality：Attacks and Countermeasures<br>
   <small>Yan Meng, Yuxia Zhan,  **Jiachun Li** , Suguo Du, Haojin Zhu, Xuemin (Sherman) Shen<br>
   *IEEE Transactions on Mobile Computing (TMC)* , 2024 | **[paper](https://ieeexplore.ieee.org/abstract/document/10592805)**</small>
+- **[SCIENCE CHINA Information Sciences26]** Knowledge Base Stealing of Retrieval-Augmented Generation Based on Random Embedding Inversion<br>
+  <small>Tian Dong, Yan Meng, Zhen Huang, Fazhong Liu, **Jiachun Li** , Guoxing Chen, Haojin Zhu<br>
+  *SCIENCE CHINA Information Sciences*(中国科学-信息科学), 2026</small>  
 - **[IWQOS21]** BatFL: Backdoor Detection on Federated Learning in e-Health<br>
   <small>Binhan Xi, Shaofeng Li,  **Jiachun Li** , Hui Liu, Hong Liu, Haojin Zhu<br>
   *International Workshop on Quality of Service (IWQOS'21)* , 2021 | **[paper](https://ieeexplore.ieee.org/abstract/document/9521339)**</small>
