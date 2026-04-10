@@ -43,10 +43,7 @@ title: Publications
   *IEEE Transactions on Mobile Computing (TMC)* , 2025 | **[paper](https://ieeexplore.ieee.org/abstract/document/10948330)**</small>
 - **[TMC24]** De-anonymizing Avatars in Virtual Reality：Attacks and Countermeasures<br>
   <small>Yan Meng, Yuxia Zhan,  **Jiachun Li** , Suguo Du, Haojin Zhu, Xuemin (Sherman) Shen<br>
-  *IEEE Transactions on Mobile Computing (TMC)* , 2024 | **[paper](https://ieeexplore.ieee.org/abstract/document/10592805)**</small>
-- **[SCIENCE CHINA Information Sciences26]** Knowledge Base Stealing of Retrieval-Augmented Generation Based on Random Embedding Inversion<br>
-  <small>Tian Dong, Yan Meng, Zhen Huang, Fazhong Liu, **Jiachun Li** , Guoxing Chen, Haojin Zhu<br>
-  *SCIENCE CHINA Information Sciences*(中国科学-信息科学), 2026</small>  
+  *IEEE Transactions on Mobile Computing (TMC)* , 2024 | **[paper](https://ieeexplore.ieee.org/abstract/document/10592805)**</small> 
 - **[IWQOS21]** BatFL: Backdoor Detection on Federated Learning in e-Health<br>
   <small>Binhan Xi, Shaofeng Li,  **Jiachun Li** , Hui Liu, Hong Liu, Haojin Zhu<br>
   *International Workshop on Quality of Service (IWQOS'21)* , 2021 | **[paper](https://ieeexplore.ieee.org/abstract/document/9521339)**</small>
@@ -68,6 +65,9 @@ title: Publications
 - **[ICCE19]** Inferring Student's Attention in a Machine Learning Approach: A Feasibility Study<br>
   <small>**Jiachun Li** , Ruiqi Li, Yuting Zhou, Junlin Xian, Xiong Zhang, Xiaojun Hei<br>
   *IEEE International Conference on Consumer Electronics (ICCE'19)* , 2019 | **[paper](https://ieeexplore.ieee.org/abstract/document/8991763)**</small>
+- **[SCIENCE CHINA Information Sciences26]** Knowledge Base Stealing of Retrieval-Augmented Generation Based on Random Embedding Inversion<br>
+  <small>Tian Dong, Yan Meng, Zhen Huang, Fazhong Liu, **Jiachun Li** , Guoxing Chen, Haojin Zhu<br>
+  *SCIENCE CHINA Information Sciences*(中国科学-信息科学), 2026</small> 
 - **[Air and Space Defense23]** Secure Routing Algorithm of Space-Air-Ground Integrated Network Based on Probability<br>
   <small>**Jiachun Li** , Weijiong Zhang, Lingcun Qiu, Le Zhang<br>
   *Air and Space Defense*(空天防御), 2023 | **[paper](./images/3.pdf)**</small>
