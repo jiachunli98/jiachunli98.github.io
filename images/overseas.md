@@ -293,3 +293,24 @@ title: Blognotes
 <img src="https://jiachunli98.github.io/figures/bl4.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/bl5.jpg" width="200">
 </center>
+
+### Hanoi, Vietnam
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/vt1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/vt2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/vt3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/vt4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/vt5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/vt6.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/vt7.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
