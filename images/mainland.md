@@ -98,8 +98,8 @@ title: Blognotes
     <br>
 </div>
 <img src="https://jiachunli98.github.io/figures/xa4.jpg" width="200">
-<img src="https://jiachunli98.github.io/figures/x1.jpg" width="200">
-<img src="https://jiachunli98.github.io/figures/x2.jpg" width="200">
+<img src="https://jiachunli98.github.io/images/x1.jpg" width="200">
+<img src="https://jiachunli98.github.io/images/x2.jpg" width="200">
 </center>
 <div style="line-height:100%;">
     <br>
