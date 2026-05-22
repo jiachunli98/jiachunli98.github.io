@@ -17,9 +17,10 @@ title: Services
 - Peer-to-Peer Networking and Applications (PPNA)
 - Wireless Network
 
-**TPC Members:**
+**TPC Members/Area Chair:**
 - IEEE/CIC International Conference on Communications in China (ICCC 2025)
 - IEEE International Conference on Trust,Security and Privacy in Computing and Communications (TrustCom 2025)
+- ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (Ubicomp 2026)
 
 **External Reviewers:**
 - ACM Conference on Computer and Communications Security (CCS)
