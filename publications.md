@@ -17,6 +17,9 @@ title: Publications
 - **[TDSC25]** A Magnetic Based Device Fingerprinting in Wireless Charging<br>
   <small>**Jiachun Li** , Yan Meng, Le Zhang, Guoxing Chen, Yuan Tian, Haojin Zhu<br>
   *IEEE Transactions on Dependable and Secure Computing (TDSC)* , 2024</small>
+- **[TMC26]** Peeking the Invisible: Eavesdropping VR Keystrokes Exploiting Headset-embedded Wi-Fi<br>
+  <small>**Jiachun Li** , Yan Meng, Yuling Chen, Jun Luo, Haojin Zhu<br>
+  *IEEE Transactions on Mobile Computing (TMC)* , 2026</small>
 - **[INFOCOM23]** MagFingerprint: A Magnetic Based Device Fingerprinting in Wireless Charging<br>
   <small>**Jiachun Li** , Yan Meng, Le Zhang, Guoxing Chen, Yuan Tian, Haojin Zhu, Xuemin (Sherman) Shen<br>
   *IEEE International Conference on Computer Communications (INFOCOM'23)* , 2023 | **[paper](./images/jiachuninfocom.pdf) | [demo](./images/wireless charging demo.mp4)**</small>
@@ -43,7 +46,10 @@ title: Publications
   *IEEE Transactions on Mobile Computing (TMC)* , 2025 | **[paper](https://ieeexplore.ieee.org/abstract/document/10948330)**</small>
 - **[TMC24]** De-anonymizing Avatars in Virtual Reality：Attacks and Countermeasures<br>
   <small>Yan Meng, Yuxia Zhan,  **Jiachun Li** , Suguo Du, Haojin Zhu, Xuemin (Sherman) Shen<br>
-  *IEEE Transactions on Mobile Computing (TMC)* , 2024 | **[paper](https://ieeexplore.ieee.org/abstract/document/10592805)**</small> 
+  *IEEE Transactions on Mobile Computing (TMC)* , 2024 | **[paper](https://ieeexplore.ieee.org/abstract/document/10592805)**</small>
+- **[IOTJ26]** QA-LLS: A Quantum-Accelerated Lattice-Based Linkable Signature Scheme for High-Mobility IoT Authentication<br>
+  <small>Hao Yuan, **Jiachun Li** , Yuling Chen, Keqin Li<br>
+  *Internet of Things Journal (IOTJ)* , 2026</small>
 - **[IWQOS21]** BatFL: Backdoor Detection on Federated Learning in e-Health<br>
   <small>Binhan Xi, Shaofeng Li,  **Jiachun Li** , Hui Liu, Hong Liu, Haojin Zhu<br>
   *International Workshop on Quality of Service (IWQOS'21)* , 2021 | **[paper](https://ieeexplore.ieee.org/abstract/document/9521339)**</small>
