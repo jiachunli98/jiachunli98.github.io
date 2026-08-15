@@ -314,3 +314,20 @@ title: Blognotes
 <div style="line-height:100%;">
     <br>
 </div>
+
+### Almaty, Kazakhstan
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/haza1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/haza2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/haza3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/haza4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/haza5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/haza6.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
