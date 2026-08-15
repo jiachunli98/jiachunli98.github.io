@@ -332,7 +332,7 @@ title: Blognotes
     <br>
 </div>
 
-### Tashkent&Samarkand, Thailand
+### Tashkent&Samarkand, Uzbekistan
 ---
 <center>
 <img src="https://jiachunli98.github.io/figures/uz1.jpg" width="200">
