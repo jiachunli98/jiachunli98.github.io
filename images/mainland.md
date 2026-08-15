@@ -410,6 +410,18 @@ title: Blognotes
     <br>
 </div>
 
+
+### Wulumuqi, Xinjiang
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/xj1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/xj2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/xj3.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
 ### Mudanjiang, Heilongjiang
 ---
 <center>
