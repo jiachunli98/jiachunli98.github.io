@@ -331,3 +331,32 @@ title: Blognotes
 <div style="line-height:100%;">
     <br>
 </div>
+
+### Tashkent&Samarkand, Thailand
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/uz1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/uz2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/uz3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/uz4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/uz5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/uz6.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/uz7.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/uz8.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/uz9.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/uz10.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/uz11.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/uz12.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
