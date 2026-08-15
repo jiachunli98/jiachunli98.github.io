@@ -55,7 +55,6 @@ title: Blognotes
 <div style="line-height:20%;">
     <br>
 </div>
-</div>
 <img src="https://jiachunli98.github.io/figures/fd21.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/fd22.jpg" width="200">
 <img src="https://jiachunli98.github.io/figures/fd23.jpg" width="200">
