@@ -52,7 +52,7 @@ title: Publications
   *IEEE Transactions on Vehicular Technology (TVT)* , 2026</small>
 - **[IOTJ26]** QA-LLS: A Quantum-Accelerated Lattice-Based Linkable Signature Scheme for High-Mobility IoT Authentication<br>
   <small>Hao Yuan, Yuling Chen, **Jiachun Li**, Keqin Li<br>
-  *Internet of Things Journal (IOTJ)* , 2026| **[paper](https://ieeexplore.ieee.org/abstract/document/11658673)**</small>
+  *IEEE Internet of Things Journal (IOTJ)* , 2026| **[paper](https://ieeexplore.ieee.org/abstract/document/11658673)**</small>
 - **[IWQOS21]** BatFL: Backdoor Detection on Federated Learning in e-Health<br>
   <small>Binhan Xi, Shaofeng Li,  **Jiachun Li** , Hui Liu, Hong Liu, Haojin Zhu<br>
   *International Workshop on Quality of Service (IWQOS'21)* , 2021 | **[paper](https://ieeexplore.ieee.org/abstract/document/9521339)**</small>
