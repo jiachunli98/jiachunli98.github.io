@@ -10,13 +10,13 @@ title: Publications
 
 - **[TIFS25]** Synergistic Multi-Modal Keystroke Eavesdropping in Virtual Reality with Vision and Wi-Fi<br>
   <small>**Jiachun Li** , Yan Meng, Fazhong Liu, Tian Dong, Suguo Du, Guoxing Chen, Yuling Chen, Haojin Zhu<br>
-  *IEEE Transactions on Information Forensics and Security（TIFS)* , 2025</small>
+  *IEEE Transactions on Information Forensics and Security（TIFS)* , 2025 | **[paper](https://ieeexplore.ieee.org/document/11121345)**</small>
 - **[TIFS24]** Dangers behind Charging VR Devices：Hidden Side Channel Attacks via Charging Cables<br>
   <small>**Jiachun Li** , Yan Meng, Yuxia Zhan, Le Zhang, Haojin Zhu<br>
   *IEEE Transactions on Information Forensics and Security（TIFS)* , 2024 | **[paper](https://ieeexplore.ieee.org/document/10684784)**</small>
 - **[TDSC25]** A Magnetic Based Device Fingerprinting in Wireless Charging<br>
   <small>**Jiachun Li** , Yan Meng, Le Zhang, Guoxing Chen, Yuan Tian, Haojin Zhu<br>
-  *IEEE Transactions on Dependable and Secure Computing (TDSC)* , 2024</small>
+  *IEEE Transactions on Dependable and Secure Computing (TDSC)* , 2025| **[paper](https://ieeexplore.ieee.org/document/10816146)**</small>
 - **[TMC26]** Peeking the Invisible: Eavesdropping VR Keystrokes Exploiting Headset-embedded Wi-Fi<br>
   <small>**Jiachun Li** , Yan Meng, Yuling Chen, Jun Luo, Haojin Zhu<br>
   *IEEE Transactions on Mobile Computing (TMC)* , 2026</small>
@@ -52,13 +52,13 @@ title: Publications
   *IEEE Transactions on Vehicular Technology (TVT)* , 2026</small>
 - **[IOTJ26]** QA-LLS: A Quantum-Accelerated Lattice-Based Linkable Signature Scheme for High-Mobility IoT Authentication<br>
   <small>Hao Yuan, Yuling Chen, **Jiachun Li**, Keqin Li<br>
-  *Internet of Things Journal (IOTJ)* , 2026</small>
+  *Internet of Things Journal (IOTJ)* , 2026| **[paper](https://ieeexplore.ieee.org/abstract/document/11658673)**</small>
 - **[IWQOS21]** BatFL: Backdoor Detection on Federated Learning in e-Health<br>
   <small>Binhan Xi, Shaofeng Li,  **Jiachun Li** , Hui Liu, Hong Liu, Haojin Zhu<br>
   *International Workshop on Quality of Service (IWQOS'21)* , 2021 | **[paper](https://ieeexplore.ieee.org/abstract/document/9521339)**</small>
 - **[TRUSTCOM25]** Blind Points Between ASR and Intent Inferring: Vulnerability Discovering via Fuzzing in-Vehicle Voice Assistance<br>
   <small>Peilin Luo, Wei Teng,  **Jiachun Li** , Yan Meng, Haojin Zhu<br>
-  *IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TRUSTCOM'25)* , 2025 </small>
+  *IEEE International Conference on Trust, Security and Privacy in Computing and Communications (TRUSTCOM'25)* , 2025 | **[paper](https://ieeexplore.ieee.org/abstract/document/11354853)**</small>
 - **[ICCC23]** EM-Whisperer: A Voice Injection Attack via Powerline for Virtual Meeting Scenarios<br>
   <small>**Jiachun Li** , Yan Meng, Le Zhang, Fazhong Liu, Haojin Zhu<br>
   *IEEE/CIC International Conference on Communications in China (ICCC'23)* , 2023 | **[paper](./images/jiachuniccc.pdf)**</small>
@@ -70,13 +70,13 @@ title: Publications
   *2023 IEEE International Conference on Communications (ICC'23)* , 2023 | **[paper](./images/shaofengicc.pdf)**</small>
 - **[ICMC24]** Security and Privacy in Virtual Reality：Challenges, Trends, and Countermeasures<br>
   <small>**Jiachun Li** , Yan Meng, Haojin Zhu<br>
-  *IEEE International Conference on Meta Computing (ICMC'24)*, 2024</small>
+  *IEEE International Conference on Meta Computing (ICMC'24)*, 2024| **[paper](https://ieeexplore.ieee.org/document/11062740)**</small>
 - **[ICCE19]** Inferring Student's Attention in a Machine Learning Approach: A Feasibility Study<br>
   <small>**Jiachun Li** , Ruiqi Li, Yuting Zhou, Junlin Xian, Xiong Zhang, Xiaojun Hei<br>
   *IEEE International Conference on Consumer Electronics (ICCE'19)* , 2019 | **[paper](https://ieeexplore.ieee.org/abstract/document/8991763)**</small>
 - **[SCIENCE CHINA Information Sciences26]** Knowledge Base Stealing of Retrieval-Augmented Generation Based on Random Embedding Inversion<br>
   <small>Tian Dong, Yan Meng, Zhen Huang, Fazhong Liu, **Jiachun Li** , Guoxing Chen, Haojin Zhu<br>
-  *SCIENCE CHINA Information Sciences*(中国科学-信息科学), 2026</small> 
+  *SCIENCE CHINA Information Sciences*(中国科学-信息科学), 2026| **[paper]([https://ieeexplore.ieee.org/document/11062740](https://www.semanticscholar.org/paper/Knowledge-base-extraction-in-retrieval-augmented-Dong-Meng/65ed2ff21e194c1dae36d1fb5844e92f76f44cbf))**</small>
 - **[Air and Space Defense23]** Secure Routing Algorithm of Space-Air-Ground Integrated Network Based on Probability<br>
   <small>**Jiachun Li** , Weijiong Zhang, Lingcun Qiu, Le Zhang<br>
   *Air and Space Defense*(空天防御), 2023 | **[paper](./images/3.pdf)**</small>
