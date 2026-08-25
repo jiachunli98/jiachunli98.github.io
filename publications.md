@@ -76,7 +76,7 @@ title: Publications
   *IEEE International Conference on Consumer Electronics (ICCE'19)* , 2019 | **[paper](https://ieeexplore.ieee.org/abstract/document/8991763)**</small>
 - **[SCIENCE CHINA Information Sciences26]** Knowledge Base Stealing of Retrieval-Augmented Generation Based on Random Embedding Inversion<br>
   <small>Tian Dong, Yan Meng, Zhen Huang, Fazhong Liu, **Jiachun Li** , Guoxing Chen, Haojin Zhu<br>
-  *SCIENCE CHINA Information Sciences*(中国科学-信息科学), 2026| **[paper]([https://ieeexplore.ieee.org/document/11062740](https://www.semanticscholar.org/paper/Knowledge-base-extraction-in-retrieval-augmented-Dong-Meng/65ed2ff21e194c1dae36d1fb5844e92f76f44cbf))**</small>
+  *SCIENCE CHINA Information Sciences*(中国科学-信息科学), 2026| **[paper](https://www.semanticscholar.org/paper/Knowledge-base-extraction-in-retrieval-augmented-Dong-Meng/65ed2ff21e194c1dae36d1fb5844e92f76f44cbf)**</small>
 - **[Air and Space Defense23]** Secure Routing Algorithm of Space-Air-Ground Integrated Network Based on Probability<br>
   <small>**Jiachun Li** , Weijiong Zhang, Lingcun Qiu, Le Zhang<br>
   *Air and Space Defense*(空天防御), 2023 | **[paper](./images/3.pdf)**</small>
