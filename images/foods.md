@@ -61,5 +61,23 @@ title: Blognotes
 <div style="line-height:20%;">
     <br>
 </div>
+<img src="https://jiachunli98.github.io/figures/fd2/ef1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/fd2/ef2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/fd2/ef3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/fd2/ef4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/fd2/ef5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/fd2/ef6.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/fd2/ef7.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/fd2/ef8.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/fd2/ef9.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
 </center>
 
