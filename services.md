@@ -11,6 +11,7 @@ title: Services
 **Journal Reviewers:**
 - IEEE Transactions on Information Forensics and Security (TIFS)
 - IEEE Transactions on Mobile Computing (TMC)
+- IEEE Transactions on Networking (TON)
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Transactions on Industrial Informatics (TII)
 - IEEE Internet of Things Journal (IOTJ)
