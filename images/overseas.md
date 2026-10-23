@@ -360,3 +360,80 @@ title: Blognotes
 <div style="line-height:100%;">
     <br>
 </div>
+
+### Muscat, Oman
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/om1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/om2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/om3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/om4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/om5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/om6.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+
+### Cario&Luxor&Aswan&Hurghada, Egypt
+---
+<center>
+<img src="https://jiachunli98.github.io/figures/egp/egp1.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp2.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp3.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/egp/egp4.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp5.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp6.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/egp/egp7.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp8.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp9.jpg" width="200">
+<div style="line-height:20%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/egp/egp10.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp11.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp12.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/egp/egp13.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp14.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp15.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/egp/egp16.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp17.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp18.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/egp/egp19.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp20.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp21.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+<img src="https://jiachunli98.github.io/figures/egp/egp22.jpg" width="200">
+<img src="https://jiachunli98.github.io/figures/egp/egp23.jpg" width="200">
+</center>
+<div style="line-height:100%;">
+    <br>
+</div>
+
+
+
+
+
