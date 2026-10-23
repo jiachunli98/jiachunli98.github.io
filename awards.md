@@ -7,6 +7,8 @@ title: Awards
 
 ## Fundings
 
+---
+
 - 主持，面向虚拟现实系统的多模态感知安全技术研究（62601204），国家自然科学基金（包干制），2027-01—2029-12，30万元
 
 - 主持，面向泛在无线感知数据的攻击检测与可靠聚合（62662016），国家自然科学基金（预算制），2027-01—2030-12，33万元
@@ -21,10 +23,10 @@ title: Awards
 
 ---
 
-<br>
-
 
 ## Awards
+
+---
 
 - 2025, ESI Highly Cited Paper (Web of Science)
 - 2019, National Scholarship (Ministry of Education)
