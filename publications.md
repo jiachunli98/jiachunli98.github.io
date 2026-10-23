@@ -49,7 +49,7 @@ title: Publications
   *IEEE Transactions on Mobile Computing (TMC)* , 2024 | **[paper](https://ieeexplore.ieee.org/abstract/document/10592805)**</small>
 - **[TVT26]** QR‑LBTS: Quantum‑Resilient Lattice‑Based Threshold Signatures for Efficient Post‑Quantum VANETs<br>
   <small>Hao Yuan, Yuling Chen, **Jiachun Li**, Jing Sun, Minyi Guo<br>
-  *IEEE Transactions on Vehicular Technology (TVT)* , 2026 **[paper](./images/FV.pdf)**</small>
+  *IEEE Transactions on Vehicular Technology (TVT)* , 2026 | **[paper](./images/FV.pdf)**</small>
 - **[IOTJ26]** QA-LLS: A Quantum-Accelerated Lattice-Based Linkable Signature Scheme for High-Mobility IoT Authentication<br>
   <small>Hao Yuan, Yuling Chen, **Jiachun Li**, Keqin Li<br>
   *IEEE Internet of Things Journal (IOTJ)* , 2026| **[paper](https://ieeexplore.ieee.org/abstract/document/11658673)**</small>
