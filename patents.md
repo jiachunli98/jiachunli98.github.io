@@ -14,7 +14,7 @@ title: Patents
 - China Patent CN202511385614.0：“联邦学习模型投毒攻击的防御方法及系统”, January 26, 2026. (the 2nd author)
 - China Patent ZL202511449529.6：“基于Mamba架构的抗多重攻击医学图像鲁棒水印方法”, April 21, 2026. (the 3rd author)
 - China Patent ZL202610869452.6“多源先验门控增强威胁入侵检测与关联分析方法及系统”, September 15, 2026. (the 7th author）
-- China Patent CN 122437734 B “基于智能体解混淆的关键基础设施攻击检测与分析方法”, June, 6, 2026.（the 9th author）
+- China Patent ZL202610908824.1 “基于智能体解混淆的关键基础设施攻击检测与分析方法”, June, 6, 2026.（the 9th author）
   
 ---
 
